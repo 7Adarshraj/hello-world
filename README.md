@@ -1,3 +1,3 @@
 # hello-world
-the inception
+th inception
 main branch
