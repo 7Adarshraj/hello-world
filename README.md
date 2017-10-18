@@ -1,4 +1,3 @@
 # hello-world
-the inception
-hey this is branch of master
-this change is being made at 7 40 pm
+this is readme edits branch 
+this is bwing written at 3 30pm
